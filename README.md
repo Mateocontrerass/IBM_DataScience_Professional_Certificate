@@ -1,5 +1,6 @@
-# DS_certification_IBM
-Hello, I will be uploading all the content related to the Data Science certification course from IBM such as Homework and various projects.
+# IBM Data Science Professional Certificate
+
+Welcome! 👋 This repository showcases my projects and assignments from the __IBM Data Science Professional Certificate__. Check the README subsections for insights into what I've learned from each course. Dive into the code, ask questions, and explore my hands-on experience with data science techniques, including SQL, Python, and more.
 
 
 
