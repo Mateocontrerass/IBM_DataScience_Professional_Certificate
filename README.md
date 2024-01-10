@@ -4,7 +4,7 @@ Welcome! 👋 This repository showcases my projects and assignments from the __I
 
 
 
-### Databases and SQL for Data Science with Python
+### Databases and SQL for Data Science with Python ( SQL Data Analysis)
 
 In this course, I mastered:
 
